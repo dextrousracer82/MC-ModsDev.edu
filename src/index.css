@@ -1,1 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+@layer components{
+   .SIcon {
+       @apply relative flex items-center justify-center h-12 w-12 mt-12 mb-2 mx-auto shadow-xl bg-slate-700 text-green-500 rounded-xl scale-100
+       hover:bg-green-600 hover:text-white hover:rounded-md duration-300 transition-all ease-linear hover:scale-105;
+   }
+   .STooltip {
+       @apply absolute w-auto p-2 m-2 min-w-max left-16 rounded-md shadow-md text-cyan-500 bg-slate-900 text-xs font-extrabold transition-all 
+       duration-200 scale-0 origin-left; 
+   }
+}

@@ -1,12 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import modal from './App';
+import App from './App';
+import Nav from './nav.js';
 
- let app = (
-   <div>
-       <h1>dis awesome</h1>
-   </div>
- );
-
- ReactDOM.render(app, document.getElementById('root'));
+ ReactDOM.render(
+     <Nav />, 
+     document.getElementById('root')
+);
