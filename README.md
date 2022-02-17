@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# MCModsDev.edu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The goal of this website is to allow anybody to create minecraft bedrock mods (and hopfully java in the future) through a extremly simple step by step basis.
 
-## Available Scripts
+## The Idea
+ 
+*the reason its "The Idea" is because its not built yet*
 
-In the project directory, you can run:
+Our Idea is that anyone, even a kid, could learn to code minecraft mods.
 
-### `npm start`
+### What It Would Have
+ 
+- A lesson type basis
+- In each "lesson" there would be text explaining the topic
+- A checklist that would help you practice and let you move to the next lesson
+- hopefully a video that was hand picked from exsisting tutorials or created by us
+- hopfully some links to other websites like [wiki.bedrock.dev](https://wiki.bedrock.dev)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contribute
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We are going to be creating those peices of text that explains the topic using MarkDown since its easy to use and widespread.
+Also just helping with the website code by making a pull request is also cool! 
+   :sunglasses:
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **Why?**
 
-### `npm run build`
+Our main creators hated the current Minecraft Bedrock marketplace, but thought that bedrock could have the same free quality mods, popularity, and documentation.
+This is just a try to fix all that.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![MCModsIcon](https://skylerwilkinson.repl.co/favicon.ico)
