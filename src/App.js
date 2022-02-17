@@ -6,8 +6,11 @@ import Nav from './nav.js';
 
 function App() {
   return (
-    <div className='flex'>
+    <div className='flex bg-slate-700'>
       <Nav />
+      <div className='bg-slate-700' id='main'>
+        <h1 className='center'>hi</h1>
+      </div>
     </div>
   );
 }
