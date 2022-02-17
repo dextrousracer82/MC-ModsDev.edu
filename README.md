@@ -14,7 +14,7 @@ Our Idea is that anyone, even a kid, could learn to code minecraft mods.
 - In each "lesson" there would be text explaining the topic
 - A checklist that would help you practice and let you move to the next lesson
 - hopefully a video that was hand picked from exsisting tutorials or created by us
-- hopfully some links to other websites like [wiki.bedrock.dev](https://wiki.bedrock.dev)
+- hopfully some links to other websites like [wiki.bedrock.dev](https://wiki.bedrock.dev) for further reading and practice
 
 ## Contribute
 
@@ -29,3 +29,5 @@ Our main creators hated the current Minecraft Bedrock marketplace, but thought t
 This is just a try to fix all that.
 
 ![MCModsIcon](https://skylerwilkinson.repl.co/favicon.ico)
+
+*For any nerds out there: this project uses React with jsx, and Tailwind for css and style*
