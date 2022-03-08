@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Nav from './nav.js';
+import ReactMarkdown from "react-markdown";
 
  ReactDOM.render(
-     <Nav />, 
+     <App />, 
      document.getElementById('root')
 );
